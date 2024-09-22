@@ -1,2 +1,2 @@
-# Building A Dashboard:
-### In this project, we created a dashboard using IBM Cognos Analytics. This platform made it possible to create various charts while putting together an attractive and easy-to-understand dashboard. The dashboard will contain data analysis, which should be intuitive and allow for deep-dive into the data.
+# link Building A Dashboard:https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCurrent%2BTechnology%2BUsage.&action=view&mode=dashboard&subView=model0000019218ea4085_00000002
+
